@@ -47,14 +47,6 @@ module.exports = {
 
     footerLinks: [
         {
-            name: "Linkedin",
-            url: "https://www.linkedin.com/in/sebastian-kopiczko/"
-        },
-        {
-            name: "Github",
-            url: "https://github.com/sebastian-kopiczko"
-        },
-        {
             name: "Resume",
             url: "https://sebastian-kopiczko.github.io/resume-react/"
         },
